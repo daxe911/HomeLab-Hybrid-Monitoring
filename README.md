@@ -11,7 +11,7 @@ The goal was to move from reactive troubleshooting to **proactive observability*
 *Real-time visibility across 4 critical nodes: Linux Server (Wazuh-Server), Raspberry Pi (Home-Server), Windows 11, and macOS.*
 
 ## Architecture Topology
-The infrastructure consists of 4 managed nodes and segmented IoT devices:
+The infrastructure consists of 4 managed nodes:
 
 | Node Name | OS / Type | Role |
 | :--- | :--- | :--- |
