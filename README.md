@@ -8,7 +8,7 @@ The goal was to move from reactive troubleshooting to **proactive observability*
 
 ## Dashboard Preview
 ![Dashboard Overview](dashboard-overview.png)
-*Real-time visibility across 4 critical nodes: Linux Server, Raspberry Pi (Home-Server), Windows 11, and macOS.*
+*Real-time visibility across 4 critical nodes: Linux Server (Wazuh-Server), Raspberry Pi (Home-Server), Windows 11, and macOS.*
 
 ## Architecture Topology
 The infrastructure consists of 4 managed nodes and segmented IoT devices:
